@@ -22,7 +22,7 @@ const Home: React.FC = () => {
     <div className="min-h-screen  flex items-center justify-center">
       <div className="text-center px-6">
         <img
-          src="src/assets/image.png"
+          src="/image.png"
           alt="Profile"
           className="w-48 h-48 rounded-full mx-auto mb-8 object-cover shadow-lg"
         />
